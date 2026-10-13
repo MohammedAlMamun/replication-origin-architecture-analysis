@@ -17,6 +17,7 @@ authors:
     affiliation: "Molecular and Cellular Biosciences Department, Centro de Investigaciones Biológicas Margarita Salas (CIB), Consejo Superior de Investigaciones Científicas (CSIC), Madrid 28040, Spain"
 version: "1.0.0"
 date-released: "2026-10-14"
+doi: "10.5281/zenodo.23353040"
 license: MIT
 repository-code: "https://github.com/MohammedAlMamun/replication-origin-architecture-analysis"
 url: "https://github.com/MohammedAlMamun/replication-origin-architecture-analysis"
