@@ -1,0 +1,11 @@
+.DS_Store
+.Rhistory
+.RData
+.Rproj.user/
+
+# Published supplementary input is downloaded by the user.
+data/OriDep.xlsx
+
+# Analysis outputs are reproducible and are not committed by default.
+results/*
+!results/.gitkeep
