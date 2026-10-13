@@ -17,6 +17,7 @@ data/
   README.md                Source, citation and placement of the yeast dataset
 results/
   .gitkeep                 Generated files are written here and are not tracked
+LICENSE                    MIT License for the analysis code
 ```
 
 ## Software
@@ -83,3 +84,7 @@ For each archaeal chromosome, random arrangements preserve chromosome length and
 For budding yeast, the two untreated 0 micromolar auxin MCM ChIP-seq replicates are averaged. Origins are ranked by this mean signal and divided into four quartiles for Figure 3B. The strongest and strong quartiles form the upper cohort, while the weak and weakest quartiles form the lower cohort. Figures 3C and 3D analyse only these two cohorts. Randomization reassigns cohort membership among the 421 fixed origin positions while preserving cohort sizes.
 
 Empirical P values are calculated as `(b + 1) / (N + 1)`, and Benjamini-Hochberg correction is applied to the test families described in the manuscript methods.
+
+## License
+
+The analysis code is released under the MIT License. See `LICENSE` for details.
