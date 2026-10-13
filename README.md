@@ -18,6 +18,8 @@ data/
 results/
   .gitkeep                 Generated files are written here and are not tracked
 LICENSE                    MIT License for the analysis code
+CITATION.cff               Citation metadata for GitHub and reference managers
+.zenodo.json               Metadata used when archiving releases with Zenodo
 ```
 
 ## Software
@@ -88,3 +90,8 @@ Empirical P values are calculated as `(b + 1) / (N + 1)`, and Benjamini-Hochberg
 ## License
 
 The analysis code is released under the MIT License. See `LICENSE` for details.
+
+## Citation
+
+Citation metadata for the software and its authors is provided in `CITATION.cff`.
+The archived release DOI will be added here after the first Zenodo release is published.
