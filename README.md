@@ -1,5 +1,7 @@
 # Replication Origin Architecture analysis
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23353039.svg)](https://doi.org/10.5281/zenodo.23353039)
+
 This repository contains the R code used for the quantitative analyses in Figures 2 and 3 of the manuscript *Replication Origin Architecture: A Multidimensional Framework for Genome Duplication*.
 
 The script performs three linked analyses:
@@ -94,4 +96,12 @@ The analysis code is released under the MIT License. See `LICENSE` for details.
 ## Citation
 
 Citation metadata for the software and its authors is provided in `CITATION.cff`.
-The archived release DOI will be added here after the first Zenodo release is published.
+
+To cite the archived v1.0.0 release:
+
+> Al Mamun, M., Calzada, A., & Bermejo, R. (2026). *Replication Origin
+> Architecture analysis* (v1.0.0). Zenodo.
+> https://doi.org/10.5281/zenodo.23353040
+
+The version-independent DOI for all releases is
+[`10.5281/zenodo.23353039`](https://doi.org/10.5281/zenodo.23353039).
