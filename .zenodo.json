@@ -1,0 +1,40 @@
+{
+  "title": "Replication Origin Architecture analysis",
+  "description": "Reproducible R analyses for replication origin spacing, origin density and licensing architecture in Figures 2 and 3 of the manuscript <i>Replication Origin Architecture: A Multidimensional Framework for Genome Duplication</i>.",
+  "upload_type": "software",
+  "creators": [
+    {
+      "name": "Al Mamun, Mohammed",
+      "orcid": "0000-0003-3438-3997",
+      "affiliation": "Molecular and Cellular Biosciences Department, Centro de Investigaciones Biológicas Margarita Salas (CIB), Consejo Superior de Investigaciones Científicas (CSIC), Madrid 28040, Spain"
+    },
+    {
+      "name": "Calzada, Arturo",
+      "orcid": "0000-0002-3190-688X",
+      "affiliation": "Molecular and Cellular Biosciences Department, Centro de Investigaciones Biológicas Margarita Salas (CIB), Consejo Superior de Investigaciones Científicas (CSIC), Madrid 28040, Spain"
+    },
+    {
+      "name": "Bermejo, Rodrigo",
+      "orcid": "0000-0002-2692-7045",
+      "affiliation": "Molecular and Cellular Biosciences Department, Centro de Investigaciones Biológicas Margarita Salas (CIB), Consejo Superior de Investigaciones Científicas (CSIC), Madrid 28040, Spain"
+    }
+  ],
+  "license": "MIT",
+  "access_right": "open",
+  "keywords": [
+    "DNA replication",
+    "replication origins",
+    "origin spacing",
+    "origin licensing",
+    "archaea",
+    "Saccharomyces cerevisiae",
+    "R"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/MohammedAlMamun/replication-origin-architecture-analysis",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
